@@ -1,0 +1,13 @@
+C:\Users\Sanan\source\repos\CourseManagmnetPortal\CourseManagmnetPortal\bin\Debug\CourseManagmnetPortal.exe.config
+C:\Users\Sanan\source\repos\CourseManagmnetPortal\CourseManagmnetPortal\bin\Debug\CourseManagmnetPortal.exe
+C:\Users\Sanan\source\repos\CourseManagmnetPortal\CourseManagmnetPortal\bin\Debug\CourseManagmnetPortal.pdb
+C:\Users\Sanan\source\repos\CourseManagmnetPortal\CourseManagmnetPortal\obj\Debug\CourseManagmnetPortal.csproj.AssemblyReference.cache
+C:\Users\Sanan\source\repos\CourseManagmnetPortal\CourseManagmnetPortal\obj\Debug\CourseManagmnetPortal.Form1.resources
+C:\Users\Sanan\source\repos\CourseManagmnetPortal\CourseManagmnetPortal\obj\Debug\CourseManagmnetPortal.Form2.resources
+C:\Users\Sanan\source\repos\CourseManagmnetPortal\CourseManagmnetPortal\obj\Debug\CourseManagmnetPortal.Properties.Resources.resources
+C:\Users\Sanan\source\repos\CourseManagmnetPortal\CourseManagmnetPortal\obj\Debug\CourseManagmnetPortal.csproj.GenerateResource.cache
+C:\Users\Sanan\source\repos\CourseManagmnetPortal\CourseManagmnetPortal\obj\Debug\CourseManagmnetPortal.csproj.CoreCompileInputs.cache
+C:\Users\Sanan\source\repos\CourseManagmnetPortal\CourseManagmnetPortal\obj\Debug\CourseManagmnetPortal.exe
+C:\Users\Sanan\source\repos\CourseManagmnetPortal\CourseManagmnetPortal\obj\Debug\CourseManagmnetPortal.pdb
+C:\Users\Sanan\source\repos\CourseManagmnetPortal\CourseManagmnetPortal\obj\Debug\CourseManagmnetPortal.Form3.resources
+C:\Users\Sanan\source\repos\CourseManagmnetPortal\CourseManagmnetPortal\obj\Debug\CourseManagmnetPortal.Form5.resources
